@@ -1,2 +1,2 @@
 # HangMan
-Hang Man game. Uni assignement
+Hang Man game, JavaFX implementation. Uni assignement
