@@ -51,7 +51,6 @@ public class Hang_manController {
             generateBtns();
             lbl.setContentDisplay(ContentDisplay.CENTER);
             lbl.setText(word);
-            int x =2;
         }
 
     }
