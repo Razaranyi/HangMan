@@ -28,8 +28,7 @@ public class GameLogic {
             fr.read(data);
             String s = new String(data);
             wordsList = addWordsToArray(s);
-            pickedWord = pickRandomWord();
-            pickedWord = pickedWord.toLowerCase();
+            pickedWord = pickRandomWord().toLowerCase();
             redactWord();
             fr.close();
 
