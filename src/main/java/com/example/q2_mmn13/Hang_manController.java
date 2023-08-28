@@ -3,6 +3,7 @@ package com.example.q2_mmn13;
 The user will be able to guess the next letter of a given word using the buttons.
 With each correct guess the button will turn green and the letter will be written in its places in the word
 with each wrong guess the button wil; turn red and another body part if the hang man will be drawn
+check
 */
 
 import javafx.application.Platform;
